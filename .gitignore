@@ -2,3 +2,4 @@
 *.log
 #Ignore Log folder data
 Log/
+*.orig
